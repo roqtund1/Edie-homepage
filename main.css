@@ -580,7 +580,9 @@ Footer
   width: 1.5rem;
   height: 1.5rem;
 }
-
+.footer-links {
+  margin: 0;
+}
 .footer-link {
   display: block;
   text-align: left;
@@ -617,7 +619,7 @@ Footer
 .bottom-text {
   text-align: center;
   font-size: 0.8rem;
-  font-family:'Montserrat';
+  font-family: "Montserrat";
   margin-top: 5rem;
 }
 @media screen and (min-width: 768px) {
